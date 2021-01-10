@@ -19,3 +19,5 @@ THEN I find a concise, descriptive title
 What I took away from this homework is how to "clean up" and put detail into code by using semantic elements. Given that <div> has no specific meaning, I used other semantic elements to further define each line of code. In addition to replacing <div> with their cooresponding semantic elements, I also edited the spacing of this code to make it easier to read. The most difficult part of this assignment for me was figuring out the spacing on the NavBar. 
 
 Deployable Link to website: https://bennettbrendan598.github.io/Week1-Homework/
+
+![Horiseon Screenshot](assets\images\horiseonscreenshot.png)
